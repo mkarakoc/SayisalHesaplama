@@ -1,2 +1,0 @@
-Fizikte Bilgisayar Uygulamaları Dersi
-=====================================
