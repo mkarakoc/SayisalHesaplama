@@ -1,3 +1,4 @@
+![](./dersnotlari/sekiller/riemann_integral_of_sinx.PNG)
 # Sayısal Hesaplama
 Fizikte Bilgisayar Uygulamaları (FİZ5042)
 
