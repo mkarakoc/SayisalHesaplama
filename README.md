@@ -1,4 +1,4 @@
-# Sayisal Hesaplama
+# Sayısal Hesaplama
 Fizikte Bilgisayar Uygulamaları (FİZ5042)
 
 ## Statik dosyalar
